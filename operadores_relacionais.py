@@ -44,7 +44,7 @@ if diaFesta == dia:
     print("Ana esta fazendo as compras no dia da festa")
 
 if(pedidoMinimoPizza >= pedidoPizza):
-    print("Ana não comprou pixxs suficientes")
+    print("Ana não comprou pizzas suficientes")
 
 if(pedidoMinimoBebida < pedidoBebida):
     print("Ana comprou mais bebidas que o necessário")
@@ -54,3 +54,4 @@ if(pedidoMinimoBolo <= pedidoBolo):
 
 if(pedidoMinimoDoces > pedidoDoce):
     print("Ana comprou doces suficientes")
+
